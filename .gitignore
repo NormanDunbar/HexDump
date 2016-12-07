@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# My Stuff
+*.html
+*.hex.txt
+
