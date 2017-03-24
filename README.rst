@@ -66,7 +66,7 @@ They can of course be mixed and don't have to be both in the same number base::
 Output Format
 -------------
 
-The format iof the output resembles the following, which is the first 128 bytes of the utility itself::
+The format of the output resembles the following, which is the first 128 bytes of the utility itself::
 
     00000000  4D5A5000 02000000 04000F00 FFFF0000  MZP.............
     00000010  B8000000 00000000 40001A00 0000FB75  ........@......u
