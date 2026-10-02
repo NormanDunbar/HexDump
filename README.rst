@@ -84,7 +84,7 @@ If a line is incomplete, and not an exact multiple of 16 bytes, you get a trunca
     00000000  4D5A5000 02000000 04000F00 FFFF0000  MZP.............
     00000010  B8000000 0000                        ......
 
-This is the first 22 bytes of the utility.        
+This is the first 22 bytes of the ``HexDump`` utility itself.        
 
 
 Enjoy.
